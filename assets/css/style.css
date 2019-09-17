@@ -1,0 +1,47 @@
+/* style.css */
+body {
+    background-image: url("file:///Users/michellesokolov/Desktop/full-bloom.png");
+    color: #FFFFFF;
+    padding: 20 px;
+    margin-bottom: 20 px
+   }
+   h1 {
+    background-color:#4aaaa5;
+    color:white
+    text-align: justify
+    float: unset;
+    width: 33%;
+    padding: 50 px;
+    margin-bottom: 20 px;
+    font family: 'Georgia', Times, 'Times New Roman', serif;
+   }
+
+   h2 {
+    background-color:white;
+    color:teal;
+    width: 960 px;
+    text-align: justify
+    float: left;
+    border-style: solid;
+    border-width: 5px;
+    border-color:white;
+
+    font family: 'Georgia', Times, 'Times New Roman', serif;
+   }
+
+   img {
+    float: left;   
+   }
+
+   p {
+    background-color: #ffffff;
+    color: #333300;
+    text-align: justify;
+    font-size: 30 px
+    border: 3px groove #cccccc;
+    font: Arial
+   }
+   
+   footer{
+    border-top: 8px solid #4aaaa5;
+   }
